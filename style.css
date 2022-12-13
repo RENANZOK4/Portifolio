@@ -168,17 +168,6 @@ a:hover {
   margin-left: 8px;
 }
 
-.elipse {
-  display: flex;
-  align-items: center;
-  width: 15px;
-  height: 15px;
-  background: #e7de79;
-  border: 2px solid #837e9f;
-  border-radius: 100%;
-  margin-left: 160px;
-}
-
 .js {
   margin-left: 8px;
 }
